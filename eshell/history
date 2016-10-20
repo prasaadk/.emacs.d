@@ -1,0 +1,17 @@
+lein koans run
+clear
+ls -ltr
+clear
+cd ..
+ls -ltr
+cd clojure-koans/
+ls -ltr
+/usr/local/bin/lein koan run
+ls -ltr
+lein run
+/usr/local/bin/lein run
+/usr/local/bin/lein run
+clear
+clear
+/usr/local/bin/lein run
+/usr/local/bin/lein run
